@@ -8,7 +8,7 @@ Achtung: zuerst in LOcalc/Excel öffnen und Spalten für `latitude` und `longitu
 
 Dann konvertieren und unter `data/bohrpunkte.geojson` speichern.
 
-[Template zur Visualisierung](https:/webmapping.github.io/templates/graz.zip)
+[Template zur Visualisierung](https://webmapping22s.github.io/templates/graz.zip)
 
 Javascript Code in `main.js`
 
